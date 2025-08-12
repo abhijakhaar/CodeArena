@@ -24,7 +24,7 @@ const userSchema = new Schema({
     age:{
         type:Number,
         min:6,
-        max:80,
+        max:85,
     },
     role:{
         type:String,
